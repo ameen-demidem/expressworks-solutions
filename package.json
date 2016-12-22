@@ -1,0 +1,11 @@
+{
+  "name": "expressworks-solutions",
+  "version": "1.0.0",
+  "description": "My solutions to expressworks problems",
+  "main": "none.js",
+  "scripts": {
+    "test": "none.js"
+  },
+  "author": "Ameen Demidem",
+  "license": "ISC"
+}
